@@ -83,3 +83,24 @@ By using GitHub’s @mention system in your pull request message, you can ask fo
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub flow before working on larger projects.
 
 Open a Pull Request for changes to the README
+
+Details
+A-Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+
+B-In the Example Comparisons box, select the branch you made, readme-edits, to compare with main (the original).
+
+C-Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
+
+D-When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+
+E-Give your pull request a title and write a brief description of your changes.
+
+When you’re done with your message, click Create pull request!
+
+Step 5. Merge your Pull Request
+In this final step, it’s time to bring your changes together – merging your readme-edits branch into the main branch.
+
+Click the green Merge pull request button to merge the changes into main.
+Click Confirm merge.
+Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
+
